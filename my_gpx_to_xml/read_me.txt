@@ -1,0 +1,1 @@
+once parsed the GPX files to XMLS  just run main.py
