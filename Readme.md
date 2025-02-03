@@ -1,10 +1,10 @@
 📌 GPX Data Processor
 
 This program processes a single GPX file at a time, extracting hiking statistics and track points, storing them in an SQLite database, and creating a FAISS vector store for further analysis.
-🚀 How to Use
+🚀 How to Use\n
 1️⃣ Add Your GPX File
 
-Place your .gpx file inside the my_gpx_to_xml directory.
+Place your .gpx file inside the my_gpx_to_xml directory.\n
 2️⃣ Run the Program
 
 Execute the main script:
